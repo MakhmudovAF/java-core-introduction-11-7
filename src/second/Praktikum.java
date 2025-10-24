@@ -1,3 +1,5 @@
+package second;
+
 public class Praktikum {
     public static void main(String[] args) {
         OrdersManager ordersManager = new OrdersManager();
